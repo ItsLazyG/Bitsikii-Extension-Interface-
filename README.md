@@ -133,3 +133,5 @@ NO: 0010 0010
 ### 👑 Created by RodsonTP
 
 Use it for secure chats, code puzzles, or custom binary art.
+
+NOTE: I'm RodsonTP, this is just a new account I created because my account named RodsonTP got banned(I don't know why)
